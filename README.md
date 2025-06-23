@@ -1,4 +1,9 @@
-## 🔗 Links
+# Hi! I'm Daniel Brandao
+
+I currently work as a Software Engineer - pationate about system design and distributed architecture.
+
+> Great Things Take Time
+
 <p align="center">
   <a href="https://dbrandao.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" />
