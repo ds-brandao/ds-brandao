@@ -2,7 +2,7 @@
 
 I currently work as a Software Engineer - pationate about system design and distributed architecture.
 
-> Great Things Takes Time
+> *Great Things Takes Time*
 
 <p align="center">
   <a href="https://dbrandao.com">
