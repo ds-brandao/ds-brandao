@@ -23,8 +23,8 @@ I currently work as a Software Engineer - pationate about system design and dist
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ds-brandao&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Daniel Brandao's GitHub Stats" />
- <img src="https://streak-stats.demolab.com?user=ds-brandao&theme=tokyonight" alt="GitHub streak">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ds-brandao&show_icons=true&locale=en" alt="Daniel Brandao's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ds-brandao" alt="GitHub streak">
 </div>
 
 <hr>
