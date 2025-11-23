@@ -16,19 +16,6 @@ I currently work as a Software Engineer - pationate about system design and dist
   </a>
 </p>
 
----
-
-## ⚡️ Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ds-brandao&show_icons=true&locale=en" alt="Daniel Brandao's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ds-brandao" alt="GitHub streak">
-</div>
-
-<hr>
-
 ## 🛠️ Languages and Tools
 <p align="center">
 
